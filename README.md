@@ -20,10 +20,6 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1b/20150904192833%21R_logo.svg" alt="R" width="36px">
 
 
-<img align="left" src="https://camo.githubusercontent.com/3ab254946cc64e3bf0fc5d45f97ae3ecccdef5fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" alt="Windows" width="36px">
-
-<img align="left" src="https://camo.githubusercontent.com/c0597ab29efc1917ce04f03182d2033741c288fd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667" alt="Android" width="36px">
-
 </br>
 
 ## Reach me
