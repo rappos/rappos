@@ -1,5 +1,5 @@
 # Welcome to my GitHub page!
-
+![image](https://github.com/rappos/rappos/blob/master/dino.gif)
 
 ## Some statistics
 
