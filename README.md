@@ -7,7 +7,7 @@ Thanks to [Anurag Hazra's github-readme-stats](https://github.com/anuraghazra/gi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rappos&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Reach me!
-[<img align="left" alt="RappEmil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://www.twitter.com/RappEmil)
+[<img align="left" alt="RappEmil | Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />](http://www.twitter.com/RappEmil)
 
 
 
