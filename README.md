@@ -1,6 +1,6 @@
 # Welcome to my GitHub page!
 ![image](https://github.com/rappos/rappos/blob/master/dino.gif)
-[![Visits Badge](https://badges.pufler.dev/visits/rappos/rappos)](https://badges.pufler.dev)
+</br>
 
 ## Some statistics
 
