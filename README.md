@@ -12,10 +12,10 @@
 ### Programming languages and frameworks
 
 [<img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" width="36px">](https://en.wikipedia.org/wiki/Java_(programming_language))
-<img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" width="36px">
-<img align="left" src="https://simpleicons.org/icons/react.svg" alt="ReactJS" width="36px">
-<img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" width="36px">
-<img align="left" src="https://simpleicons.org/icons/r.svg" alt="R" width="36px">
+[<img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" width="36px">](https://en.wikipedia.org/wiki/Python_(programming_language))
+[<img align="left" src="https://simpleicons.org/icons/react.svg" alt="ReactJS" width="36px">](https://en.wikipedia.org/wiki/React_(web_framework))
+[<img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" width="36px">](https://en.wikipedia.org/wiki/Flutter_(software))
+[<img align="left" src="https://simpleicons.org/icons/r.svg" alt="R" width="36px">](https://en.wikipedia.org/wiki/R_(programming_language))
 
 </br>
 
