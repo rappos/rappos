@@ -36,6 +36,7 @@
 [<img align="left" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu" width="36px">](https://ubuntu.com/)
 [<img align="left" src="https://simpleicons.org/icons/android.svg" alt="Android" width="36px">](https://www.android.com/intl/en_us/)
 
+</br>
 ---
 
 ## Reach me
