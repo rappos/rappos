@@ -11,14 +11,10 @@
 ## Technical info
 ### Programming languages and frameworks
 
-<img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" width="36px">
-
+[<img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" width="36px">](https://en.wikipedia.org/wiki/Java_(programming_language))
 <img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" width="36px">
-
 <img align="left" src="https://simpleicons.org/icons/react.svg" alt="ReactJS" width="36px">
-
 <img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" width="36px">
-
 <img align="left" src="https://simpleicons.org/icons/r.svg" alt="R" width="36px">
 
 </br>
@@ -37,7 +33,7 @@
 ### My choice of OS's
 <img align="left" src="https://simpleicons.org/icons/windows.svg" alt="Windows" width="36px">
 <img align="left" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu" width="36px">
-<img align="left" src="https://simpleicons.org/icons/android.svg" alt="Android" width="36px" style="color:red;">
+<img align="left" src="https://simpleicons.org/icons/android.svg" alt="Android" width="36px">
 
 
 
