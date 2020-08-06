@@ -29,6 +29,8 @@
 <img align="left" src="https://simpleicons.org/icons/intellijidea.svg" alt="IntelliJ IDEA" width="36px">
 <img align="left" src="https://simpleicons.org/icons/pycharm.svg" alt="Pycharm" width="36px">
 <img align="left" src="https://simpleicons.org/icons/rstudio.svg" alt="R Studio" width="36px">
+<img align="left" src="https://simpleicons.org/icons/affinityphoto.svg" alt="Affinity Photo" width="36px">
+<img align="left" src="https://simpleicons.org/icons/affinitydesigner.svg" alt="Affinity Designer" width="36px">
 
 </br>
 
