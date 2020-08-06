@@ -10,7 +10,7 @@
 
 ## What I'm using
 
-<img align="left" src="https://camo.githubusercontent.com/e4401872e88c7253f40c1267936c9a5a81aa3692/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" alt="Java" width="36px">
+<img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" width="36px">
 
 <img align="left" src="https://camo.githubusercontent.com/cc1b5b07ad8a80491b42035775baedf76a3b836c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" alt="Python" width="36px">
 
