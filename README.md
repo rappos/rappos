@@ -38,10 +38,9 @@
 
 </br>
 
-## Reach me
+## Contact and online presence
 [<img align="left" alt="My Mail | Gmail" width="36px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:emilemail4@gmail.com)
-
 [<img align="left" alt="RappEmil | LinkedIn" width="36px" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/emil-rapp/)
-
 [<img align="left" alt="RappEmil | Twitter" width="36px" src="https://simpleicons.org/icons/twitter.svg" />](http://www.twitter.com/RappEmil)
+[<img align="left" src="https://simpleicons.org/icons/steam.svg" alt="Steam" width="36px">](https://steamcommunity.com/id/rappos/)
 
