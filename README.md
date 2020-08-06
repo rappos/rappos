@@ -21,6 +21,8 @@
 
 <img align="left" src="https://simpleicons.org/icons/r.svg" alt="R" width="36px">
 
+</br>
+
 ### My choice of OS(s)
 <img align="left" src="https://simpleicons.org/icons/windows.svg" alt="Windows" width="36px">
 
