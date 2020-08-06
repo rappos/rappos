@@ -8,7 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rappos&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## What I'm using
+## Technical info
+### Programming languages and frameworks
 
 <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" width="36px">
 
@@ -19,6 +20,9 @@
 <img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" width="36px">
 
 <img align="left" src="https://simpleicons.org/icons/r.svg" alt="R" width="36px">
+
+### My choice of OS(s)
+<img align="left" src="https://simpleicons.org/icons/windows.svg" alt="Windows" width="36px">
 
 
 </br>
