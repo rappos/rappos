@@ -23,10 +23,17 @@
 
 </br>
 
-### My choice of OS(s)
+### IDE's and tools
+<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" width="36px">
+<img align="left" src="https://simpleicons.org/icons/androidstudio.svg" alt="Android Studio" width="36px">
+
+</br>
+
+### My choice of OS's
 <img align="left" src="https://simpleicons.org/icons/windows.svg" alt="Windows" width="36px">
 <img align="left" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu" width="36px">
 <img align="left" src="https://simpleicons.org/icons/android.svg" alt="Android" width="36px">
+
 
 </br>
 
