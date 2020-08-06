@@ -9,7 +9,7 @@
 
 
 ## Technical info
-### Programming languages and frameworks
+#### Programming languages and frameworks
 
 [<img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" width="36px">](https://www.java.com/en/download/)
 [<img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" width="36px">](https://www.python.org/)
@@ -19,7 +19,7 @@
 
 </br>
 
-### IDE's and tools
+#### IDE's and tools
 [<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" width="36px">](https://code.visualstudio.com/)
 [<img align="left" src="https://simpleicons.org/icons/androidstudio.svg" alt="Android Studio" width="36px">](https://developer.android.com/studio)
 [<img align="left" src="https://simpleicons.org/icons/intellijidea.svg" alt="IntelliJ IDEA" width="36px">](https://www.jetbrains.com/idea/)
@@ -30,7 +30,7 @@
 
 </br>
 
-### My choice of OS's
+#### My choice of OS's
 [<img align="left" src="https://simpleicons.org/icons/windows.svg" alt="Windows" width="36px">](https://www.microsoft.com/en-us/software-download/windows10)
 [<img align="left" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu" width="36px">](https://ubuntu.com/)
 [<img align="left" src="https://simpleicons.org/icons/android.svg" alt="Android" width="36px">](https://www.android.com/intl/en_us/)
