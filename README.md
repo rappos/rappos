@@ -40,6 +40,7 @@
 
 ## Contact and online presence
 [<img align="left" alt="My Mail | Gmail" width="36px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:emilemail4@gmail.com)
+[<img align="left" src="https://simpleicons.org/icons/stackoverflow.svg" alt="StackOverflow" width="36px">](https://stackoverflow.com/users/8740093/emil-rapp?tab=profile)
 [<img align="left" src="https://simpleicons.org/icons/facebook.svg" alt="Facebook" width="36px">](https://www.facebook.com/rapp.emil/)
 [<img align="left" alt="RappEmil | LinkedIn" width="36px" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/emil-rapp/)
 [<img align="left" alt="RappEmil | Twitter" width="36px" src="https://simpleicons.org/icons/twitter.svg" />](http://www.twitter.com/RappEmil)
