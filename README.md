@@ -12,13 +12,13 @@
 
 <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" width="36px">
 
-<img align="left" src="https://camo.githubusercontent.com/cc1b5b07ad8a80491b42035775baedf76a3b836c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" alt="Python" width="36px">
+<img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" width="36px">
 
-<img align="left" src="https://camo.githubusercontent.com/f81df8111223bbd67da1e3514bea41d5a63ff89a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667" alt="ReactJS" width="36px">
+<img align="left" src="https://simpleicons.org/icons/react.svg" alt="ReactJS" width="36px">
 
-<img align="left" src="https://camo.githubusercontent.com/8cbf492d2c1741f89f34b2bd11e6e09533eb0bbb/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c75747465722e737667" alt="Flutter" width="36px">
+<img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" width="36px">
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1b/20150904192833%21R_logo.svg" alt="R" width="36px">
+<img align="left" src="https://simpleicons.org/icons/r.svg" alt="R" width="36px">
 
 
 </br>
