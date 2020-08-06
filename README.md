@@ -7,6 +7,7 @@
 [![My Stats](https://github-readme-stats.vercel.app/api?username=rappos&theme=cobalt&count_private=true&show_icons=true&icon_color=f7810a)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rappos&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</br>
 
 ## Technical info
 #### Programming languages and frameworks
@@ -35,9 +36,8 @@
 [<img align="left" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu" width="36px">](https://ubuntu.com/)
 [<img align="left" src="https://simpleicons.org/icons/android.svg" alt="Android" width="36px">](https://www.android.com/intl/en_us/)
 
-
-
-
+</br>
+---
 </br>
 
 ## Reach me
