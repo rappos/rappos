@@ -7,5 +7,5 @@
 
 ## Top languages:
 <p align='center'>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rappos&bg_color=0D1117&hide_title=true" alt="rappos's language stats"/>
 </p>
