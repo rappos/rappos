@@ -5,7 +5,7 @@
 * 👨‍🏫👷‍♂️Currently studying at KTH in Stockholm to become an engineer and teacher
 * 🤭Likes to start projects, won´t finish them unless forced
 
-## GitHub stats
+## Top languages:
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rappos&bg_color=0D1117&icon_color=4194FD&show_icons=true&count_private=true&theme=radical&line_height=27&text_color=FFFFFF" alt="rappos's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rappos?bg_color=0D1117?hide_title=true" alt="rappos's github stats"/>
 </p>
