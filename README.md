@@ -1,4 +1,4 @@
-# Welcome to my GitHub page!
+# Welcome to my GitHub page<img src="https://github.com/rappos/rappos/blob/master/Hi.gif" width="29px">
 </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rappos&show_icons=true&theme=radical&bg_color=0d1117)
 
