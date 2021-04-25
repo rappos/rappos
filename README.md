@@ -2,8 +2,10 @@
 
 ## About me:
 
-* 👨‍🏫👷‍♂️Currently studying at KTH in Stockholm to become an engineer and teacher
-* 🤭Likes to start projects, won´t finish them unless forced
+👨‍🏫👷‍♂️Currently studying at KTH in Stockholm to become an engineer and teacher
+</br>
+🤭Likes to start projects, won´t finish them unless forced
+</br>
 
 ## Top languages:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rappos&theme=radical&bg_color=0D1117&text_color=ff469a&hide_title=true&hide_border=true" alt="rappos's language stats"/>
