@@ -6,6 +6,4 @@
 * 🤭Likes to start projects, won´t finish them unless forced
 
 ## Top languages:
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rappos&bg_color=0D1117&hide_title=true" alt="rappos's language stats"/>
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rappos&theme=radical&bg_color=0D1117&hide_title=true" alt="rappos's language stats"/>
