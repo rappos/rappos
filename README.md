@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Emil, a student at KTH studying to become a teacher in math, technology, and programming 👨‍🏫💻</div>  
+## <div align="center">I'm Emil, a student at KTH studying to become a teacher in math, technology, and programming 👨‍🏫💻</div>  
   
 
 - 🔭 My main project right now is [Fysikboken](https://github.com/fysikboken/fysikboken.github.io). An updated version of a physics website for a professor at KTH.  
@@ -19,7 +19,7 @@
 
 
 
-### <div align="center">My skills and tools</div>    
+## <div align="center">My skills and tools</div>    
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
@@ -36,7 +36,7 @@
 
 <br/>  
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=emilemail4&cover_image=true&theme=novatorem" align="center" style="width: 100%" />  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=emilemail4&cover_image=true&theme=novatorem" align="center" style="width: 100%" /></div>    
 
 <br/>  
 
@@ -53,8 +53,3 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
