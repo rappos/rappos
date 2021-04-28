@@ -36,7 +36,9 @@
 
 <br/>  
 ## <div align="center">What am I listening to?</div>    
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=emilemail4&cover_image=true&theme=novatorem" align="center" style="width: 100%" /></div>    
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=emilemail4&cover_image=true&theme=novatorem" align="center" style="width: 100%" />
+</div>    
 
 <br/>  
 
