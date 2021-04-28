@@ -42,7 +42,6 @@
 
 <br/>  
 
-
 ## <div align="center">Connect with me</div>    
 <div align="center">
 <a href="https://github.com/rappos" target="_blank">
