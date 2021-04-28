@@ -35,7 +35,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rappos&hide_border=true&theme=radical" align="center" style="width: 100%" /></div>  
 
 <br/>  
-
+## <div align="center">What am I listening to?</div>    
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=emilemail4&cover_image=true&theme=novatorem" align="center" style="width: 100%" /></div>    
 
 <br/>  
