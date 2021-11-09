@@ -13,17 +13,6 @@
 <br/>  
 
 
-
-## <div align="center">My skills and tools</div>    
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>  
-
-<br/>  
-
-
 ## <div align="center">Github Stats</div>    
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rappos&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 100%" /></div>  
 
