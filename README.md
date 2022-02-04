@@ -4,7 +4,7 @@
 - 🔭 My main project right now is [Fysikboken](https://github.com/fysikboken/fysikboken.github.io). An updated version of a physics website for a professor at KTH.  
   
 
-- 🌱 I’m trying to be learn C++ and ReactJS  
+- 🌱 I’m trying to be learn Rust and Haskell  
   
 
 - ⚡ The JetBrains IDE's are my main thing, but VSCode is what I use for web development.   
