@@ -12,6 +12,11 @@
 
 <br/>  
 
+## <div align="center">GitHub stats</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rappos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 ## <div align="center">Connect with me</div>    
 <div align="center">
 <a href="https://github.com/rappos" target="_blank">
