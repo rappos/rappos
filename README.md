@@ -1,4 +1,4 @@
-## <div align="center">I'm Emil, a student at KTH studying to become a teacher in math, technology, and programming 👨‍🏫💻</div>  
+## <div align="left">I'm Emil, a student at KTH studying to become a teacher in math, technology, and programming 👨‍🏫💻</div>  
   
 
 - 🔭 My main project right now is [Fysikboken](https://github.com/fysikboken/fysikboken.github.io). An updated version of a physics website for a professor at KTH.  
@@ -12,8 +12,7 @@
 
 <br/>  
 
-## <div align="center">GitHub stats</div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rappos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rappos&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
