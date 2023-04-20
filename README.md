@@ -12,7 +12,7 @@
 
 <br/>  
 
-[![Top Langs](https://github-readme-stats-be24.vercel.app/api/top-langs/?username=rappos&langs_count=10&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-be24.vercel.app/api/top-langs/?username=rappos&langs_count=10&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ## <div align="center">Connect with me</div>    
