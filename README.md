@@ -1,15 +1,5 @@
-## <div align="left">I'm Emil, a student at KTH studying to become a teacher in math, technology, and programming 👨‍🏫💻</div>  
-  
-
-- 🔭 My main project right now is [Fysikboken](https://github.com/fysikboken/fysikboken.github.io). An updated version of a physics website for a professor at KTH.  
-  
-
-- 🌱 I’m trying to be learn Rust and Haskell  
-  
-
-- ⚡ The JetBrains IDE's are my main thing, but VSCode is what I use for web development.   
-  
-
+## <div align="left">I'm Emil, a student at KTH studying [Engineering and teaching]([url](https://www.kth.se/utbildning/civilingenjor/civing-larare/civilingenjor-och-larare-300-hp-1.4108)) 👨‍🏫💻</div>  
+ 
 <br/>  
 
 [![Top Langs](https://github-readme-stats-be24.vercel.app/api/top-langs/?username=rappos&langs_count=10&theme=dracula&count_private=true&layout=compact&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
