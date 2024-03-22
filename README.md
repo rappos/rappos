@@ -5,6 +5,9 @@
 [![Top Langs](https://github-readme-stats-be24.vercel.app/api/top-langs/?username=rappos&langs_count=10&theme=dracula&count_private=true&layout=compact&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
+[![Project Euler](https://projecteuler.net/profile/RappEmil.png)]
+<br/>
+
 ## <div align="center">Connect with me</div>    
 <div align="center">
 <a href="https://github.com/rappos" target="_blank">
