@@ -1,19 +1,9 @@
-## <div align="left">I'm Emil, a student at KTH studying [Engineering and teaching]([url](https://www.kth.se/utbildning/civilingenjor/civing-larare/civilingenjor-och-larare-300-hp-1.4108)) 👨‍🏫💻</div>  
- 
-<br/>  
+## <div align="left">I'm Emil, a student at KTH studying computer science engineerign and teaching 💻👨‍🏫</div>  
 
-[![Top Langs](https://github-readme-stats-be24.vercel.app/api/top-langs/?username=rappos&langs_count=10&theme=dracula&count_private=true&layout=compact&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+I am currently doing my fourth year as a student at KTH, on the double degree program ["Civilingenjör & lärare"](https://www.kth.se/utbildning/civilingenjor/civing-larare/civilingenjor-och-larare-300-hp). This means that after my five years of studying, I will get both a computer science engineer degree and a teaching degree in math and technology. I like to try out and learn many different technologies, both within my courses and on my spare time. Mostly I've worked with Python, Java and Prolog, but my journey has led me to many others such as JavaScript, C and Haskell. The most fun and challenging thing I've done was during my secod year, when we made a game for the _Uno32 chipKIT Basic I/O Shield_ using only C and MIPS Assembly. 
 
-[![Project Euler](https://projecteuler.net/profile/RappEmil.png)]
-<br/>
+When I'm not studying, I like to do programming challenges on sites such as [Kattis](https://open.kattis.com/) and [Project Euler](https://projecteuler.net/). I'm also the webdeveloper for my program's chapter website, [cl-sektionen.se](https://www.cl-sektionen.se/). The website is made in JavaScript using NextJS, with Firebase and Vercel as backing technologies. Everyting from notifications as a PWA, to calendars, infopages and information posts are implemented. The repo for the website can be found [here](https://github.com/Webbutvecklare-CL/cl-sektionen.se/).
 
-## <div align="center">Connect with me</div>    
-<div align="center">
-<a href="https://twitter.com/RappEmil" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/emil-rapp" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+Top languages             |  Project Euler
+:-------------------------:|:-------------------------:
+[![Top Langs](https://github-readme-stats-be24.vercel.app/api/top-langs/?username=rappos&langs_count=10&theme=dracula&count_private=true&layout=compact&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)  |  [![Project Euler](https://projecteuler.net/profile/RappEmil.png)]
