@@ -1,4 +1,4 @@
-## <div align="left">I'm Emil, a student at KTH studying computer science engineerign and teaching 💻👨‍🏫</div>  
+## <div align="left">I'm Emil, a student at KTH studying computer science engineering and teaching 💻👨‍🏫</div>  
 
 I am currently doing my fifth year as a student at KTH, on the double degree program ["Civilingenjör & lärare"](https://www.kth.se/utbildning/civilingenjor/civing-larare/civilingenjor-och-larare-300-hp). This means that after my five years of studying, I will get both a computer science engineer degree and a teaching degree in math and technology. I like to try out and learn many different technologies, both within my courses and on my spare time. Mostly I've worked with Python, Java and Prolog, but my journey has led me to many others such as JavaScript, C and Haskell. The most fun and challenging thing I've done was during my secod year, when we made a game for the _Uno32 chipKIT Basic I/O Shield_ using only C and MIPS Assembly. 
 
